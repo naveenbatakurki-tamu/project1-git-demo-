@@ -8,3 +8,5 @@ By completing this project, you will be able to:
  Use git stash to manage unfinished work
  Push changes safely to a remote repository
  Demonstrate a complete Git workflow end-to-end
+------------- new values --------------------
+
