@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Target Learning Outcomes
 By completing this project, you will be able to:
  Explain what Git is and why engineers use it
@@ -13,3 +14,9 @@ By completing this project, you will be able to:
 ---------- VSL code ---------------------
 
 
+=======
+Ideas and notes go here.
+Try different solver methods.
+Try new and better solver methods.
+Unfinished idea to test stash.
+>>>>>>> 8564d4560645c82988acc87809bfdf34073e9bf6
