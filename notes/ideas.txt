@@ -1,1 +1,3 @@
 Ideas and notes go here.
+Try different solver methods.
+Try new and better solver methods.
