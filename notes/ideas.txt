@@ -2,18 +2,4 @@ Ideas and notes go here.
 Try different solver methods.
 Try new and better solver methods.
 Unfinished idea to test stash.
-Target Learning Outcomes
-By completing this project, you will be able to:
- Explain what Git is and why engineers use it
- Clone a remote repository
- Create and switch between branches
- Track, stage, and commit changes
- Synchronize local and remote repositories
- Use git stash to manage unfinished work
- Push changes safely to a remote repository
- Demonstrate a complete Git workflow end-to-end
-------------- new values --------------------
----------- new branch 1 note ---------------
----------- VSL code ---------------------
-
-
+Try to merge branches.
